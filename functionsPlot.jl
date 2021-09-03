@@ -30,7 +30,3 @@ function plotTwoFunctions(c_1 = n -> 506n - 1481,
 
     savefig("cOverline.pdf")
 end
-
-# in the same directory of this file, open Julia and type in terminal
-# include("functionsPlot.jl")
-# plotTwoFunctions()
